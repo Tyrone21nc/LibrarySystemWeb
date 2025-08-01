@@ -18,9 +18,11 @@ When you open the site, you will notice a **"Display Books"** button on the left
 - When you click the button now, it will also undergo another background and text coloring and go back
      to saying, **"Display Books"**
 <img width="189" height="62" alt="Default button" src="https://github.com/user-attachments/assets/c8c6c313-5227-4500-bcf4-ae4c4e78ad4c" />  <img width="178" height="68" alt="button clicked once" src="https://github.com/user-attachments/assets/8114bf7f-40fe-4274-be8f-fabf5f286f41" />  <img width="185" height="79" alt="button clicked three times" src="https://github.com/user-attachments/assets/8f7519a2-6abd-4535-bed3-9e3cd38a1bd3" />
+
 *******Books Displayed*******
 <img width="1085" height="128" alt="books displayed 1" src="https://github.com/user-attachments/assets/dd6053a0-9913-4e4d-b598-8585d70c0082" />
 **...**
+
 <img width="2284" height="1352" alt="books displayed 2" src="https://github.com/user-attachments/assets/3e72dcd3-9d73-4b45-9b90-fcc2c269ce65" />
 
 
@@ -31,7 +33,7 @@ To search by an author (**author**), book title (**title**), book year published
 - You do this for every search type. You want to search by title, enter the title and type title, then press the first **then** the second search icon, then the results will apear below
 <img width="1054" height="60" alt="both search bars and icons with search values typed" src="https://github.com/user-attachments/assets/5c3e144e-7059-47a8-9605-672c4d11c7e8" />  <img width="78" height="68" alt="search icon" src="https://github.com/user-attachments/assets/91e87ea0-689a-457a-908a-c66a7af46fe9" />
 <img width="2432" height="1478" alt="search author result1" src="https://github.com/user-attachments/assets/c4baf904-7616-442f-96ef-e052f0828ee2" />
-**...**
+__...__
 <img width="2427" height="1016" alt="search author result2" src="https://github.com/user-attachments/assets/843c9f62-85cd-4fa5-9118-e807189ec755" />
 
 
