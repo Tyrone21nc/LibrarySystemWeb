@@ -31,6 +31,7 @@ To search by an author (**author**), book title (**title**), book year published
 - To search by author, you input the author's name in the first search box and type "**author**" in the second search box.
       To now display the search results, press the search icon for the first search box then the search icon for the second box in that order
 - You do this for every search type. You want to search by title, enter the title and type title, then press the first **then** the second search icon, then the results will apear below
+
 <img width="1085" height="128" alt="both search bars and icons with search values typed" src="https://github.com/user-attachments/assets/dd6053a0-9913-4e4d-b598-8585d70c0082" />  <img width="78" height="68" alt="search icon" src="https://github.com/user-attachments/assets/91e87ea0-689a-457a-908a-c66a7af46fe9" />
 <img width="2432" height="1478" alt="search author result1" src="https://github.com/user-attachments/assets/c4baf904-7616-442f-96ef-e052f0828ee2" />
 
