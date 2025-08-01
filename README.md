@@ -52,6 +52,9 @@ To search by an author (**author**), book title (**title**), book year published
 <img width="2322" height="1043" alt="example 3 pt2" src="https://github.com/user-attachments/assets/d4801e79-2f12-42b2-8f60-35dab44e2569" />
 <img width="2389" height="1024" alt="example 3 pt3" src="https://github.com/user-attachments/assets/da27dd98-c1ce-4674-86f6-4b8b949b40e5" />
 
+------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1133" height="150" alt="example 4 pt1" src="https://github.com/user-attachments/assets/82002108-0606-41ee-aa2e-f77a0b044708" />
+<img width="2415" height="1500" alt="example 4 pt2" src="https://github.com/user-attachments/assets/e9b49f0a-9c22-4bfa-bc7e-6042a55e202a" />
 
 
 
