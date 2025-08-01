@@ -20,7 +20,7 @@ When you open the site, you will notice a **"Display Books"** button on the left
 
 *******Books Displayed*******
 <img width="2425" height="1070" alt="books displayed 1" src="https://github.com/user-attachments/assets/c17129cc-708c-408e-926d-ebf918d029bb" />
-<div style="margin-top: 20px; margin-bottom: 20px; left: 50%; font-weight: bold;">...</div>
+<div style="margin: 20px 0; position: relative; left: 50%; font-weight: bold;">...</div>
 <img width="2284" height="1352" alt="books displayed 2" src="https://github.com/user-attachments/assets/3e72dcd3-9d73-4b45-9b90-fcc2c269ce65" />
 
 
