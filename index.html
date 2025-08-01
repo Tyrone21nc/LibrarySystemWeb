@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Library System</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+</head>
+<body>
+    <h1 class="header">Online Library System</h1>
+
+    <div class="container">
+        <div class="search-container">
+            <div class="search-box">
+                <input id="search-field" type="text" placeholder="Search...">
+                <i class="fa-solid fa-magnifying-glass search1"></i>
+            </div>
+
+            <div class="search-box">
+                <input id="search-type-field" type="text" placeholder="search by title, author, rating, or year">
+                <i class="fa-solid fa-magnifying-glass search2"></i>
+            </div>
+        </div>
+        
+
+
+        <button id="display-books">Display Books</button>
+        <!-- <button id="continue-display">Continue Display</button> -->
+        <div id="display-type"></div>
+        <div class="books"></div>
+    </div>
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
