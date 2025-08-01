@@ -39,6 +39,16 @@ To search by an author (**author**), book title (**title**), book year published
 <img width="2427" height="1016" alt="search author result2" src="https://github.com/user-attachments/assets/843c9f62-85cd-4fa5-9118-e807189ec755" />
 
 
+### More examples
+<img width="2415" height="1020" alt="example 1" src="https://github.com/user-attachments/assets/b7e93219-5b42-4f4a-a8e7-11e83fe5478a" />
+----------------------------------------------------------------------------------------------------------------------------------------
+<img width="2481" height="1499" alt="example 2 pt1" src="https://github.com/user-attachments/assets/306b26b5-a0ec-4137-81dd-2fcca1ff5397" />
+<img width="2475" height="1022" alt="example 2 pt2" src="https://github.com/user-attachments/assets/b64b5077-0533-4c42-a12a-fbe9e65610c6" />
+----------------------------------------------------------------------------------------------------------------------------------------
+<img width="2475" height="1022" alt="image" src="https://github.com/user-attachments/assets/d30015d2-5181-4062-aac6-5851b84de071" />
+
+
+
 
 
 
