@@ -16,6 +16,6 @@ When you open the site, you will notice a **"Display Books"** button on the left
      to saying, **"Display Books"**
 <img width="189" height="62" alt="Default button" src="https://github.com/user-attachments/assets/c8c6c313-5227-4500-bcf4-ae4c4e78ad4c" />  <img width="178" height="68" alt="button clicked once" src="https://github.com/user-attachments/assets/8114bf7f-40fe-4274-be8f-fabf5f286f41" />  <img width="185" height="79" alt="button clicked three times" src="https://github.com/user-attachments/assets/8f7519a2-6abd-4535-bed3-9e3cd38a1bd3" />
 
-** *****Books Displayed***** **
+*******Books Displayed*******
 
 
