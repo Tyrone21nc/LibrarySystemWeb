@@ -21,7 +21,7 @@ When you open the site, you will notice a **"Display Books"** button on the left
 
 *******Books Displayed*******
 <img width="1085" height="128" alt="books displayed 1" src="https://github.com/user-attachments/assets/dd6053a0-9913-4e4d-b598-8585d70c0082" />
-**...**
+
 
 <img width="2284" height="1352" alt="books displayed 2" src="https://github.com/user-attachments/assets/3e72dcd3-9d73-4b45-9b90-fcc2c269ce65" />
 
