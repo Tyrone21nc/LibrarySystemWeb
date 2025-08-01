@@ -8,7 +8,7 @@ this version allows for two features:
   2. search and display
 
 ## Features Explained
-### *Display*
+### *****Display*
 When you open the site, you will notice a **"Display Books"** button on the left hand side of the page.
 - When you click it the first time, all 900+ books will be displayed and the button will now say
      **"Clear Books"** with a change of background and text coloring.
