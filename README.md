@@ -47,9 +47,11 @@ To search by an author (**author**), book title (**title**), book year published
 <img width="2475" height="1022" alt="example 2 pt2" src="https://github.com/user-attachments/assets/b64b5077-0533-4c42-a12a-fbe9e65610c6" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
-Use `code()` like this.
 
-<div style="margin: 20px 0; position: relative; left: 50%; font-weight: bold;">...</div>
+<img width="1219" height="127" alt="example 3 pt1" src="https://github.com/user-attachments/assets/b4f32ac0-2a09-4a62-8a10-1e507d53f51a" />
+<img width="2322" height="1043" alt="example 3 pt2" src="https://github.com/user-attachments/assets/d4801e79-2f12-42b2-8f60-35dab44e2569" />
+<img width="2389" height="1024" alt="example 3 pt3" src="https://github.com/user-attachments/assets/da27dd98-c1ce-4674-86f6-4b8b949b40e5" />
+
 
 
 
